@@ -13,4 +13,6 @@
 
 ### :chart_with_upwards_trend: Activity
 
-[![Ben's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ben-Atherton&theme=tokyo-night)](https://github.com/ashutosh00710/github-read
+[![Ben's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ben-Atherton&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ben-Atherton&color=blue&style=flat)
