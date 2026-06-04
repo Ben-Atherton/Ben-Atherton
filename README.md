@@ -1,23 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Ben-Atherton/Ben-Atherton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :fire: My Stats
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ben-Atherton&theme=tokyonight)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ben-Atherton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ben-Atherton&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ben-Atherton)](https://git.io/streak-stats)
+### :trophy: Trophies
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ben-Atherton&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ben-Atherton&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Ben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ben-Atherton&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### :chart_with_upwards_trend: Activity
+
+[![Ben's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ben-Atherton&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ben-Atherton&color=blue&style=flat)
